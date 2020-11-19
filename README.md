@@ -26,13 +26,13 @@
   <a href="https://github.com/FeedHive/twitter-api-client">
     <img width="48%" src="https://repository-images.githubusercontent.com/281412830/36e8ef00-cf2b-11ea-8ed3-a0d9baedd3b6" alt="Twitter API Client" />
   </a>
-  <a href="https://github.com/SimonHoiberg/Hue-Debugger-UI">
-    <img width="48%" src="https://repository-images.githubusercontent.com/150486283/89b03300-289b-11eb-980c-8ec3cfbc03c0" alt="Hue Debugger UI" />
+  <a href="https://sigmetic.io">
+    <img width="48%" src="https://i.imgur.com/vcIC2tt.png" alt="Sigmetic" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Silind-Software/direflow">
+  <a href="https://direflow.io">
     <img width="100%" src="https://camo.githubusercontent.com/ac2846a713677ce902cdfdfbaa4bd3f6443e45bd42fe6d33c706d5e7c3b048f3/68747470733a2f2f73696c696e642d73332e73332e65752d776573742d322e616d617a6f6e6177732e636f6d2f64697265666c6f772f67682d62616e6e65722e706e67" alt="Direflow" />
   </a>
 </p>
