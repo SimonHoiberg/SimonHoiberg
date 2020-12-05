@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/twitter/follow/SimonHoiberg?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/SimonHoiberg?sub_confirmation=1">
-    <img src="http://img.shields.io/badge/YouTube-1.3K-red?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="http://img.shields.io/badge/YouTube-1.6K-red?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/simonhoiberg/">
     <img src="https://img.shields.io/badge/LinkedIn-2K-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
