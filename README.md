@@ -36,6 +36,6 @@
     <img width="49%" src="https://repository-images.githubusercontent.com/281412830/36e8ef00-cf2b-11ea-8ed3-a0d9baedd3b6" alt="Twitter API Client" />
   </a>
   <a href="https://feedhive.io">
-    <img width="45.6%" src="https://feedhive.io/og-image-v6.jpg" alt="FeedHive" />
+    <img width="45.6%" src="https://feedhive.io/og-image-v9.jpg" alt="FeedHive" />
   </a>
 </p>
