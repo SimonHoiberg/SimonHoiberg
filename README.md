@@ -27,7 +27,7 @@
     <img width="49%" src="https://imgur.com/DHsVXEc.png" alt="Twitter API Client" />
   </a>
   <a href="https://simonhoiberg.com/ebooks/65-code-snippets-with-explanations">
-    <img width="45.6%" src="https://simonhoiberg.com/_next/static/image/assets/65-code-snippets.b81a5f03eeccab497f0eaa05bbc10ea5.png" alt="FeedHive" />
+    <img width="45.6%" src="https://feedhive.io/og-image-v11.jpg" alt="FeedHive" />
   </a>
 </p>
 
