@@ -1,4 +1,4 @@
-![Simon Hoiberg](https://imgur.com/cUDgzFF.png)
+![Simon Hoiberg](https://pbs.twimg.com/profile_banners/875776212341329920/1666515985/1500x500)
 
 <h2 align="center">Hi, there 👋</h2>
 
