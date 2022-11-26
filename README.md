@@ -26,15 +26,12 @@
   <a href="https://github.com/FeedHive/twitter-api-client">
     <img width="100%" src="https://repository-images.githubusercontent.com/281412830/36e8ef00-cf2b-11ea-8ed3-a0d9baedd3b6" alt="Twitter API Client" />
   </a>
-</p>
 
-<p align="center">
-  
   <a href="https://feedhive.io">
-    <img width="45.6%" src="https://uploads-ssl.webflow.com/6310a2f29cd6000cb1750803/6354d3a873ae72119edb8b3e_feedhive-og-p-800.jpg" alt="FeedHive" />
+    <img width="50%" src="https://uploads-ssl.webflow.com/6310a2f29cd6000cb1750803/6354d3a873ae72119edb8b3e_feedhive-og-p-800.jpg" alt="FeedHive" />
   </a>
 
   <a href="https://www.linkdrip.io">
-    <img width="45.6%" src="https://uploads-ssl.webflow.com/6310a2f29cd6000cb1750803/6354d3a771b74a4ea4fd55db_linkdrip-og-p-500.png" alt="FeedHive" />
+    <img width="50%" src="https://uploads-ssl.webflow.com/6310a2f29cd6000cb1750803/6354d3a771b74a4ea4fd55db_linkdrip-og-p-500.png" alt="FeedHive" />
   </a>
 </p>
